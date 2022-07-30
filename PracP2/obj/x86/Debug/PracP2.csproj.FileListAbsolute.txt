@@ -1,0 +1,32 @@
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP2\PracP2\bin\Debug\PracP2.exe
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP2\PracP2\bin\Debug\PracP2.pdb
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP2\PracP2\obj\x86\Debug\PracP2.csprojResolveAssemblyReference.cache
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP2\PracP2\obj\x86\Debug\PracP2.BlackjackForm.resources
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP2\PracP2\obj\x86\Debug\PracP2.Properties.Resources.resources
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP2\PracP2\obj\x86\Debug\PracP2.csproj.GenerateResource.Cache
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP2\PracP2\obj\x86\Debug\PracP2.exe
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP2\PracP2\obj\x86\Debug\PracP2.pdb
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\PracP2\PracP2\bin\Debug\PracP2.exe
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\PracP2\PracP2\bin\Debug\PracP2.pdb
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\PracP2\PracP2\obj\x86\Debug\PracP2.csprojAssemblyReference.cache
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\PracP2\PracP2\obj\x86\Debug\PracP2.BlackjackForm.resources
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\PracP2\PracP2\obj\x86\Debug\PracP2.Properties.Resources.resources
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\PracP2\PracP2\obj\x86\Debug\PracP2.csproj.GenerateResource.cache
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\PracP2\PracP2\obj\x86\Debug\PracP2.exe
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\PracP2\PracP2\obj\x86\Debug\PracP2.pdb
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P4\Blackjack P4\PracP2\bin\Debug\PracP2.exe
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P4\Blackjack P4\PracP2\bin\Debug\PracP2.pdb
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P4\Blackjack P4\PracP2\obj\x86\Debug\PracP2.csprojAssemblyReference.cache
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P4\Blackjack P4\PracP2\obj\x86\Debug\PracP2.BlackjackForm.resources
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P4\Blackjack P4\PracP2\obj\x86\Debug\PracP2.Properties.Resources.resources
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P4\Blackjack P4\PracP2\obj\x86\Debug\PracP2.csproj.GenerateResource.cache
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P4\Blackjack P4\PracP2\obj\x86\Debug\PracP2.exe
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P4\Blackjack P4\PracP2\obj\x86\Debug\PracP2.pdb
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P5\Blackjack P4\PracP2\bin\Debug\PracP2.exe
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P5\Blackjack P4\PracP2\bin\Debug\PracP2.pdb
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P5\Blackjack P4\PracP2\obj\x86\Debug\PracP2.csprojAssemblyReference.cache
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P5\Blackjack P4\PracP2\obj\x86\Debug\PracP2.BlackjackForm.resources
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P5\Blackjack P4\PracP2\obj\x86\Debug\PracP2.Properties.Resources.resources
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P5\Blackjack P4\PracP2\obj\x86\Debug\PracP2.csproj.GenerateResource.cache
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P5\Blackjack P4\PracP2\obj\x86\Debug\PracP2.exe
+C:\Users\Jeffrey Luo\Documents\2020\Compx102 - Programs\Practicals\Prac P5\Blackjack P4\PracP2\obj\x86\Debug\PracP2.pdb
